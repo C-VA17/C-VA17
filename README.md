@@ -1,3 +1,4 @@
+<img src="Profile%20Picture.jpg" width="200" align="right" />
 <h1 align="center">Hi 👋, I'm Sivarajan</h1>
 <h3 align="center">A passionate beginner eager to dive into the world of Data Science..</h3>
 
