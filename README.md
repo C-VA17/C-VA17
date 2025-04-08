@@ -9,7 +9,7 @@
 
 🔍 Over the years, I’ve gained valuable insights into **testing**, **quality control**, and **process analysis**.
 
-🚀 After six years in the industry, I began seeking new challenges and discovered **Data Science**—a field that aligns with my **analytical skills** and passion for **problem-solving**.
+🚀 After six years in the industry, I began seeking new challenges and discovered **Data Science** a field that aligns with my **analytical skills** and passion for **problem-solving**.
 
 📚 I'm currently pursuing a **Master’s in Data Science**, committed to learning **data analysis**, **machine learning**, and **programming**.
 
