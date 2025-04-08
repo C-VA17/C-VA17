@@ -1,4 +1,3 @@
-|[image alt](https://github.com/C-VA17/C-VA17/blob/eec78b9e35c262978dd325d2cff06488378283e4/Profile%20Picture.jpg)
 # Hi 👋, I'm Sivarajan  
 ### A passionate beginner eager to dive into the world of Data Science.
 
