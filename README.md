@@ -1,4 +1,4 @@
-https://github.com/C-VA17/C-VA17/blob/5b398d2bc473b2828956fec2197525beb25b9bcb/Profile%20Picture%202.JPG
+![image alt](https://github.com/C-VA17/C-VA17/blob/5b398d2bc473b2828956fec2197525beb25b9bcb/Profile%20Picture%202.jpg)
 
 
 
