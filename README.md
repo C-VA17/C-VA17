@@ -1,4 +1,4 @@
-https://github.com/C-VA17/C-VA17/blob/303dc68b0c21c36ff18e925a4ff322ebb244928a/Profile%20Picture.jpg
+
 # Hi 👋, I'm Sivarajan  
 ### A passionate beginner eager to dive into the world of Data Science.
 
